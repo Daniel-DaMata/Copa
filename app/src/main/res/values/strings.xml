@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">Copa</string>
+    <string name="escalacao" />
+    <string name="nomeTime" />
+    <string name="NomeEquador" />
+    <string name="NomeArabia" />
+    <string name="NomeArgentina" />
+    <string name="NomePolonia" />
+    <string name="Seletion" />
+    <string name="Copa1">Guillermo Ochoa</string>
+    <string name="Copa2">Hirving Lozano</string>
+    <string name="Copa3">Raúl Jiménez</string>
+    <string name="Copa4">Andrés Guardado</string>
+    <string name="Copa5">Edson Álvarez</string>
+    <string name="Copa6">Kevin Álvarez Campos</string>
+    <string name="Copa7">Rogelio Funes Moris</string>
+    <string name="Copa8">Luis Chávez</string>
+    <string name="Copa9">Héctor Herrera</string>
+    <string name="Copa10">Alexis Vega</string>
+    <string name="Copa11">Jorge Sánchez</string>
+    <string name="Copa12">Henry Martín</string>
+    <string name="Copa13">Orbelín Pineda</string>
+    <string name="Copa14">Gerardo Arteaga</string>
+    <string name="Copa15">César Montes</string>
+    <string name="Copa16">Uriel Antuna</string>
+    <string name="Copa17">Carlos Rodríguez</string>
+    <string name="Copa18">Érick Gutiérrez</string>
+    <string name="Copa19">Johan Vásquez</string>
+    <string name="Copa20">Roberto Alvarado</string>
+    <string name="Copa21">Héctor Moreno</string>
+    <string name="Copa22">Néstor Araujo</string>
+    <string name="Copa23">Jesús Gallardo</string>
+    <string name="Copa24">Alfredo Talavera</string>
+    <string name="Copa25">Luis Romo</string>
+    <string name="Copa26">Rodolfo Cota</string>
+    <string name="voltarButton">Voltar</string>
+
 </resources>
