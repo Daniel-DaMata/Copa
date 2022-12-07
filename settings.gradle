@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Copa"
+rootProject.name = "copa"
 include ':app'

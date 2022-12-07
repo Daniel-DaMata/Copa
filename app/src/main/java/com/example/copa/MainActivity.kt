@@ -1,11 +1,9 @@
-package com.example.copadomundo
+package com.example.copa
 
-import EscalacaoActivity
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-import com.example.copa.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -18,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
     private fun ExibirEscalacao(){
-        val intent = Intent(this, EscalacaoActivity::class.java)
+        val intent = Intent(this, escalacaoActivity::class.java)
         startActivity(intent)
     }
 }

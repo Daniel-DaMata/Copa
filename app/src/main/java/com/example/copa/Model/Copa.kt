@@ -1,4 +1,4 @@
-package com.example.Copa.Model
+package com.example.copa.Model
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes

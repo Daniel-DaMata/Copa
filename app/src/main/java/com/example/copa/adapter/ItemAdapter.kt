@@ -1,4 +1,4 @@
-package com.example.Copa.adapter
+package com.example.copa.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.Copa.Model.Copa
+import com.example.copa.Model.Copa
 import com.example.copa.R
 
 class ItemAdapter(private val context: Context, private val dataset: List<Copa>) : RecyclerView.Adapter<ItemAdapter.ItemViewHolder>()

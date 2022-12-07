@@ -1,5 +1,6 @@
-package com.example.Copa.Data
-import com.example.Copa.Model.Copa
+package com.example.copa.Data
+
+import com.example.copa.Model.Copa
 import com.example.copa.R
 
 class DataSource {

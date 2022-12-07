@@ -1,12 +1,12 @@
-import com.example.Copa.Data.DataSource
-import com.example.Copa.adapter.ItemAdapter
-import com.example.copa.R
+package com.example.copa
+
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.RecyclerView
+import com.example.copa.adapter.ItemAdapter
+import com.example.copa.Data.DataSource
 
-
-class EscalacaoActivity : AppCompatActivity() {
+class escalacaoActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_escalacao)
